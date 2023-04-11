@@ -37,7 +37,7 @@ const Create = () => {
             placeholder="Введите имя персонажа"
             className="bg-transparent text-white"
           />
-        </Label>``
+        </Label>
         <Label label="Выберте класс персонажа">
           <select
             className="bg-transparent"
